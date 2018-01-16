@@ -1,6 +1,7 @@
-$ npm install -g json-server
+Install json-server: <br/>
+npm install -g json-server
 
 
-Run:
-$json-server --watch db.json
+Run: <br/>
+json-server --watch db.json
 
