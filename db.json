@@ -1,0 +1,33 @@
+{
+ "teams" : [
+		{ "id" : "PL", "name" : "Poland", "group" : "A" },
+	 	{ "id" : "SN", "name" : "Senegal", "group" : "A" },
+		{ "id" : "CO", "name" : "Colombia", "group" : "A" },
+ 		{ "id" : "JP", "name" : "Japan", "group" : "A" }
+
+	],
+
+ "games" : [
+
+		{ "id" : 1, "team1": "PL", "team2" : "SN" },
+		{ "id" : 2, "team1": "CO", "team2" : "JP" },
+		{ "id" : 3, "team1": "JP", "team2" : "SN" },
+		{ "id" : 4, "team1": "PL", "team2" : "CO" },
+		{ "id" : 5, "team1": "SN", "team2" : "CO" },
+		{ "id" : 6, "team1": "JP", "team2" : "PL" }
+           ],
+
+"groups" : [
+
+		{"id" : "A", "name": "Group A" },
+		{"id" : "B", "name": "Group B" },
+		{"id" : "C", "name": "Group C" },
+		{"id" : "D", "name": "Group D" },
+		{"id" : "E", "name": "Group E" },
+		{"id" : "F", "name": "Group F" },
+		{"id" : "G", "name": "Group G" },
+		{"id" : "H", "name": "Group H" }
+           ]
+
+
+}
